@@ -1,7 +1,7 @@
 body{
   font-family: 'Quicksand', sans-serif;
   background-image: url('../images/background.jpg');
-  color: white;
+  color: black;
   font-size: 17px;
 }
 
@@ -38,7 +38,7 @@ h1{
 
 #get-name{
   border-radius: 5px;
-  color: #000000;
+  color: #98D5F3;
   background-color: #FCD116;
   text-align: center;
   border: solid 1px #000000;
