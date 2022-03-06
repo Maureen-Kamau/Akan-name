@@ -38,8 +38,8 @@ h1{
 
 #get-name{
   border-radius: 5px;
-  color: #98D5F3;
-  background-color: #FCD116;
+  color: #000000;
+  background-color: #98D5F3;
   text-align: center;
   border: solid 1px #000000;
   width: 108px;
@@ -53,7 +53,7 @@ h1{
 }
 
 .content{
-  background-color: rgba(206, 17, 38, 0.72);
+  background-color: rgba(119, 214, 238, 0.589);
   /* height: 600px; */
   margin-left: 20%;
   margin-right: 20%;
